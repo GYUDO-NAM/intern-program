@@ -1,1 +1,1 @@
-I am learning about new branches.
+새로운 브렌치를 배우고 있어요
